@@ -2,11 +2,7 @@
 
 ## Features
 
-You can easily backup your files with just right click.
-
-## WIP
-
-* Restore your backup when you need.
+You can easily backup your files and restore them back with just right click.
 
 ## Will Add Soon
 
